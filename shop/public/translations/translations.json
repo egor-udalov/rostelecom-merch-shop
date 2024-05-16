@@ -1,6 +1,7 @@
 {
   "en": {
     "common": {
+      "all_link": "All",
       "more": "More",
       "order_price": "Order price",
       "ad": "Ad"
@@ -89,6 +90,7 @@
   },
   "ru": {
     "common": {
+      "all_link": "Все",
       "more": "Ещё",
       "order_price": "Сумма заказа",
       "ad": "Реклама"
